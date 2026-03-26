@@ -22,6 +22,10 @@
  
 
 ⚡ SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhayVerma9131&theme=tokyonight" />
 </p>
@@ -29,13 +33,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhayVerma9131&theme=tokyonight" />
 </p>
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
-
-<br>
 <br>
 
 <p align="center">
