@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake-neon.svg" />
 </p>
-<img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake.svg" />
 💼 LINKEDIN AI CARD
 
 <p align="center">
