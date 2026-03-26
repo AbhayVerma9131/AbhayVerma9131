@@ -19,53 +19,72 @@
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
 </p>
- ⚡ SYSTEM ANALYTICS
+ 
+
+
+
+⚡ SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=2"/>
+</p>
 
 <table align="center">
 <tr>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
 <h3>📊 Contributions</h3>
+
 <h1>128+</h1>
+
 <p>Since 2022</p>
 
+<img src="https://progress-bar.dev/90/?color=00F7FF" />
+
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
 <h3>🔥 Current Streak</h3>
+
 <h1>Active</h1>
-<p>Keep pushing 🚀</p>
+
+<p>Consistency Mode 🚀</p>
+
+<img src="https://progress-bar.dev/80/?color=0A66C2" />
 
 </td>
 
-<td align="center" width="200">
+<td align="center" width="220">
 
 <h3>🏆 Focus</h3>
+
 <h1>AI/ML</h1>
+
 <p>+ Full Stack</p>
+
+<img src="https://progress-bar.dev/85/?color=00F7FF" />
 
 </td>
 
 </tr>
 </table>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
-## ⚡ SYSTEM ANALYTICS
 
 <p align="center">
-
-| 📊 Contributions | 🔥 Streak | 🧠 Focus |
-|-----------------|----------|----------|
-| 128+            | Active 🚀 | AI/ML + Full Stack |
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=2"/>
 </p>
 
+🧠 PERFORMANCE STATUS
 
-
+```bash
+SYSTEM STATUS: ONLINE ✅
+AI MODULE: ACTIVE 🤖
+LEARNING RATE: INCREASING 📈
+BUILD MODE: HACKNETIC 🚀
+```
 🐍 NEURAL ACTIVITY MAP
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake.svg" />
