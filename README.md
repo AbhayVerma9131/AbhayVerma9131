@@ -35,7 +35,7 @@ NLP system for summarization & Q&A
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: your-link
+- LinkedIn:https://www.linkedin.com/in/abhay-verma-ai
 <!--
 **AbhayVerma9131/AbhayVerma9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
