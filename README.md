@@ -19,11 +19,7 @@
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
 </p>
-## ⚡ SYSTEM ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayVerma9131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+##⚡ SYSTEM ANALYTICS
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbhayVerma9131&theme=tokyonight&hide_border=true&background=00000000" />
