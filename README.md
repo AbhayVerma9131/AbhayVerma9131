@@ -50,6 +50,7 @@
 </p>
 
 🤖 AI TERMINAL
+```bash
 
 > Initializing system...
 > Loading Abhay_Verma_AI profile...
@@ -57,6 +58,7 @@
 > Project detected: Hacknetic
 > Status: 🚀 ACTIVE
 > Mission: Build Future Intelligence Systems
+```
 
 
 
