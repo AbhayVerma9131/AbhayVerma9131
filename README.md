@@ -43,19 +43,6 @@ NLP system for summarization & Q&A
 
 ## 💼 LinkedIn Profile
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-verma-ai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Verma-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Abhay Verma</b><br>
-  🚀 AI/ML Enthusiast | Full Stack Developer<br>
-  📍 India  
-</p>
-## 💼 LinkedIn Profile
-
 <table align="center">
 <tr>
 <td align="center" width="300">
