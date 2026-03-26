@@ -96,8 +96,6 @@ Spring ████████░░░ 75%
 
 
 
-
-
 ## 🤖 AI TERMINAL
 
 ```bash
@@ -107,24 +105,23 @@ Spring ████████░░░ 75%
 > Project detected: Hacknetic
 > Status: 🚀 ACTIVE
 > Mission: Build Future Intelligence Systems
-
 ---
 
-# 🎮 STEP 4: ADD INTERACTIVE BUTTONS
+Id="zpbxgj"
 
-```md
+```
 ## 🎮 CONTROL PANEL
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-verma-ai/">
     <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  
+
   <a href="https://github.com/AbhayVerma9131">
     <img src="https://img.shields.io/badge/EXPLORE-GITHUB-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=2"/>
 </p>
@@ -133,3 +130,4 @@ Spring ████████░░░ 75%
   ⚡ <b>ELA MODE ACTIVATED</b> ⚡ <br>
   🤖 "I don’t just code. I architect intelligence."
 </p>
+
