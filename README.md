@@ -36,11 +36,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayVerma9131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
 <br>
 
 <p align="center">
