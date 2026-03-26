@@ -21,68 +21,39 @@
 </p>
  
 
-
-
 ⚡ SYSTEM ANALYTICS
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=2"/>
-</p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="220">
-
-<h3>📊 Contributions</h3>
-
-<h1>128+</h1>
-
-<p>Since 2022</p>
-
-<img src="https://progress-bar.dev/90/?color=00F7FF" />
-
-</td>
-
-<td align="center" width="220">
-
-<h3>🔥 Current Streak</h3>
-
-<h1>Active</h1>
-
-<p>Consistency Mode 🚀</p>
-
-<img src="https://progress-bar.dev/80/?color=0A66C2" />
-
-</td>
-
-<td align="center" width="220">
-
-<h3>🏆 Focus</h3>
-
-<h1>AI/ML</h1>
-
-<p>+ Full Stack</p>
-
-<img src="https://progress-bar.dev/85/?color=00F7FF" />
-
-</td>
-
-</tr>
-</table>
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
 </p>
 
-🧠 PERFORMANCE STATUS
+<br>
 
-```bash
-SYSTEM STATUS: ONLINE ✅
-AI MODULE: ACTIVE 🤖
-LEARNING RATE: INCREASING 📈
-BUILD MODE: HACKNETIC 🚀
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhayVerma9131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhayVerma9131&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayVerma9131&theme=tokyo-night&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
+</p>
+
+
 🐍 NEURAL ACTIVITY MAP
 
 
