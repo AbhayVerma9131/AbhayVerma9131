@@ -33,6 +33,10 @@ Text classification using TF-IDF and ML models
 NLP system for summarization & Q&A  
 
 ---
+## 🔬 Experimentation
+- Compared multiple models  
+- Evaluated using precision-recall metrics  
+- Improved performance through iteration
 
 ## 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/abhay-verma-ai
