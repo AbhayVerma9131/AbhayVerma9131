@@ -55,7 +55,7 @@ NLP system for summarization & Q&A
 📍 India  
 
 <a href="https://www.linkedin.com/in/abhay-verma-ai/">
-  <img src="https://img.shields.io/badge/View%20Profile-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://github.com/AbhayVerma9131/AbhayVerma9131/blob/main/1000258262.png" width="120" style="border-radius:50%" />
 </a>
 
 </td>
