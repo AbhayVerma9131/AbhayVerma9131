@@ -55,16 +55,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
 </p>
-
 🐍 NEURAL ACTIVITY MAP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake-neon.svg" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
-
+<img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake.svg" />
 💼 LINKEDIN AI CARD
 
 <p align="center">
