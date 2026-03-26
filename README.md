@@ -3,103 +3,38 @@
 </p><h1 align="center">⚡ Abhay Verma ⚡</h1><h3 align="center">⚡ Building Hacknetic | Designing AI Systems ⚡</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full+Stack+Developer;Hacknetic+Creator;Future+AI+Architect" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/main/1000258262.png" width="140" style="border-radius:50%; border:3px solid cyan;" />
-</p><p align="center">
-  🚀 AI/ML Engineer | 💻 Full Stack Developer <br>
-  🤖 Creator of <b>Hacknetic</b> <br>
-  📍 India
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
-🧠 AI TECH STACK
+<!-- ⚡ FINAL BOSS UI - AI OS STYLE -->🤖 AI ASSISTANT
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,mysql,docker,git,github,linux,tensorflow" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
- 
-
-⚡ SYSTEM ANALYTICS
-
-<br>
+> Booting ELA System...
+> Initializing Abhay_Verma_AI...
+> Loading Skills: AI/ML | Full Stack | Automation
+> Status: ONLINE ✅
+> Mode: HACKNETIC 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
+</p>---
 
-<br>
+🧠 SYSTEM ANALYTICS
 
-<!-- 🔥 LIVE STATS (REAL DATA) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhayVerma9131&theme=tokyonight" />
-</p>
-
-<br>
-
-<!-- 🔥 LIVE STREAK -->
-<p align="center">
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=AbhayVerma9131&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<!-- 🔥 ADVANCED SUMMARY (GRAPH STYLE) -->
-<p align="center">
+</p><p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhayVerma9131&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="center">
+</p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
+</p>---
+
 🐍 NEURAL ACTIVITY MAP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake-neon.svg" />
-</p>
-💼 LINKEDIN AI CARD
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/main/1000258262.png" width="110" style="border-radius:50%;" />
-</p><p align="center">
-  <b>⚡ Abhay Verma</b><br>
-  🤖 AI/ML Engineer<br>
-  🚀 Hacknetic Creator
-</p><p align="center">
-  <a href="https://www.linkedin.com/in/abhay-verma-ai/">
-    <img src="https://img.shields.io/badge/ACCESS_PROFILE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
+</p>---
 
-🤖 AI TERMINAL
-```bash
-> Initializing system...
-> Loading Abhay_Verma_AI profile...
-> Skills detected: AI/ML, Full Stack, Automation
-> Project detected: Hacknetic
-> Status: 🚀 ACTIVE
-> Mission: Build Future Intelligence Systems
-```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
-
-🧬 AI THOUGHT STREAM
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-⚡ PROFILE VISIBILITY
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhayVerma9131&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-</p>
 🎮 CONTROL PANEL
 
 <p align="center">
@@ -108,10 +43,24 @@
   </a>  <a href="https://github.com/AbhayVerma9131">
     <img src="https://img.shields.io/badge/EXPLORE-GITHUB-black?style=for-the-badge&logo=github"/>
   </a>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>
+</p>---
+
+🧬 AI THOUGHT STREAM
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+</p>---
+
+⚡ SYSTEM STATUS
+
+AI CORE: ACTIVE ✅
+LEARNING RATE: INCREASING 📈
+PROJECT: HACKNETIC 🚀
+GOAL: BUILD FUTURE AI SYSTEMS
+
+---
+
 <p align="center">
   ⚡ <b>ELA MODE ACTIVATED</b> ⚡ <br>
-  🧠 <b>"I don’t follow trends. I build what’s next."</b>
+  🧠 "Designing Intelligence. Engineering the Future."
 </p>
