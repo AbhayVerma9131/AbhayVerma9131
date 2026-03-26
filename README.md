@@ -38,8 +38,11 @@ NLP system for summarization & Q&A
 - Evaluated using precision-recall metrics  
 - Improved performance through iteration
 
-## 📫 Connect With Me
-- LinkedIn:https://www.linkedin.com/in/abhay-verma-ai
+  
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Verma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhay-verma-ai/)
+
 <!--
 **AbhayVerma9131/AbhayVerma9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
