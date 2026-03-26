@@ -64,20 +64,19 @@
 ```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0A66C2&height=3"/>
-</p>---
+</p>
 
 🧬 AI THOUGHT STREAM
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>---
+</p>
 
 ⚡ PROFILE VISIBILITY
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhayVerma9131&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-</p>---
-
+</p>
 🎮 CONTROL PANEL
 
 <p align="center">
