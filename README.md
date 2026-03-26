@@ -3,7 +3,7 @@
 </p><h1 align="center">⚡ Abhay Verma ⚡</h1>
 <h3 align="center">⚡ Building Hacknetic | Designing AI Systems ⚡</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full+Stack+Developer;Hacknetic+Creator;Future+AI+Architect" />
-</p>---
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/main/1000258262.png" width="140" style="border-radius:50%; border:3px solid cyan;" />
@@ -11,13 +11,13 @@
   🚀 AI/ML Engineer | 💻 Full Stack Developer <br>
   🤖 Creator of <b>Hacknetic</b> <br>
   📍 India
-</p>---
+</p>
 
 🧠 AI TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,mysql,docker,git,github,linux,tensorflow" />
-</p>---
+</p>
 
 ⚡ SYSTEM ANALYTICS
 
@@ -27,13 +27,13 @@
   <img src="https://streak-stats.demolab.com?user=AbhayVerma9131&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhayVerma9131&theme=tokyonight" />
-</p>---
+</p>
 
 🐍 NEURAL ACTIVITY MAP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/output/github-contribution-grid-snake-neon.svg" />
-</p>---
+</p>
 
 💼 LINKEDIN AI CARD
 
@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/abhay-verma-ai/">
     <img src="https://img.shields.io/badge/ACCESS_PROFILE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>---
+</p>
 
 🤖 AI TERMINAL
 
@@ -58,19 +58,18 @@
 > Status: 🚀 ACTIVE
 > Mission: Build Future Intelligence Systems
 
----
+
 
 🧬 AI THOUGHT STREAM
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>---
-
+</p>
 ⚡ PROFILE VISIBILITY
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhayVerma9131&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-</p>---
+</p>
 
 🎮 CONTROL PANEL
 
@@ -80,7 +79,7 @@
   </a>  <a href="https://github.com/AbhayVerma9131">
     <img src="https://img.shields.io/badge/EXPLORE-GITHUB-black?style=for-the-badge&logo=github"/>
   </a>
-</p>---
+</p>
 
 <p align="center">
   ⚡ <b>ELA MODE ACTIVATED</b> ⚡ <br>
