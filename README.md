@@ -41,7 +41,39 @@ NLP system for summarization & Q&A
   
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Verma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhay-verma-ai/)
+## 💼 LinkedIn Profile
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-verma-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Verma-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Abhay Verma</b><br>
+  🚀 AI/ML Enthusiast | Full Stack Developer<br>
+  📍 India  
+</p>
+## 💼 LinkedIn Profile
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="80"/>
+
+### Abhay Verma  
+💻 AI/ML Developer  
+🚀 Building Hacknetic  
+📍 India  
+
+<a href="https://www.linkedin.com/in/abhay-verma-ai/">
+  <img src="https://img.shields.io/badge/View%20Profile-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <!--
 **AbhayVerma9131/AbhayVerma9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
