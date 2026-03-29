@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=200&section=header&text=ABHAY%20VERMA&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p><h1 align="center">⚡ Abhay Verma ⚡</h1>
 <h3 align="center">⚡ Software Engineer| Designing AI Systems ⚡</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full+Stack+Developer; Software+Engineer;Future+AI+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full+Stack+Developer;Software+Engineer;Future+AI+Architect" />
 </p>
 
 <p align="center">
