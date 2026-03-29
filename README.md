@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/AbhayVerma9131/AbhayVerma9131/main/1000258262.png" width="140" style="border-radius:50%; border:3px solid cyan;" />
 </p><p align="center">
   🚀 AI/ML Engineer | 💻 Full Stack Developer <br>
-  🤖 Creator of <b>Hacknetic</b> <br>
+  🤖 Software Engineer<br>
   📍 India
 </p>
 
@@ -42,6 +42,7 @@
 </p><p align="center">
   <b>⚡ Abhay Verma</b><br>
   🤖 AI/ML Engineer<br>
+  👨🏻‍💻 Software Engineer 
 </p><p align="center">
   <a href="https://www.linkedin.com/in/abhay-verma-ai/">
     <img src="https://img.shields.io/badge/ACCESS_PROFILE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
