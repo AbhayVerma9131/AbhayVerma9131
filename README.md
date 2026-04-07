@@ -15,7 +15,6 @@
 </p>
 
 
-
 🧠 AI TECH STACK
 
 <p align="center">
